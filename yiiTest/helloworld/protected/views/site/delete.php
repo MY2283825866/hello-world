@@ -1,6 +1,6 @@
 <html>
     <body>
-        <h1>删除成功</h1>
+        <h1>web端删除成功</h1>
         <?php echo CHtml::link('Start Again',array('index')); ?>
         <?php echo CHtml::beginForm(); ?>
         <table>
