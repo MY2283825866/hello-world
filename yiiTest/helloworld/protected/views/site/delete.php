@@ -1,10 +1,6 @@
 <html>
     <body>
-<<<<<<< HEAD
-        <h1>web端删除成功+本地</h1>
-=======
-        <h1>web端删除成功</h1>
->>>>>>> 9aa3fd2a1dec2240016dba1334cbe0ef640fa064
+        <h1>web端删除成功+本地+web</h1>
         <?php echo CHtml::link('Start Again',array('index')); ?>
         <?php echo CHtml::beginForm(); ?>
         <table>
